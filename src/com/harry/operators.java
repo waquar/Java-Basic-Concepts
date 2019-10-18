@@ -5,7 +5,6 @@ operand     operator       operand   result
 operators in java:
 arithmetic operators
 assignment operators
-assignment operaors
 logical operators
 comparison operators
  */

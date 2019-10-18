@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ed3da17-1549-4995-87b9-73111ade6552" name="Default Changelist" comment="" />
+    <list default="true" id="4ed3da17-1549-4995-87b9-73111ade6552" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/harry/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/harry/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/harry/ifelse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/harry/ifelse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/harry/operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/harry/operators.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +21,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SHQAZjUhnawFB9ayN4vFN3They" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -31,9 +44,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ifelse">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.harry.Main" />
+  <component name="RunManager" selected="Application.exceptioNhandling">
+    <configuration name="arraysJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.harry.arraysJava" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
@@ -45,18 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.harry.java.Main" />
-      <module name="java_basics" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Stringmethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.harry.Stringmethods" />
+    <configuration name="breakAndcontinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.harry.breakAndcontinue" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ifelse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.harry.ifelse" />
+    <configuration name="exceptioNhandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.harry.exceptioNhandling" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +84,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.harry.operators" />
+    <configuration name="forloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.harry.forloop" />
+      <module name="java_basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.harry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="multidimensionalarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.harry.multidimensionalarray" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
@@ -95,19 +111,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.operators" />
-      <item itemvalue="Application.Stringmethods" />
-      <item itemvalue="Application.ifelse" />
+      <item itemvalue="Application.forloop" />
+      <item itemvalue="Application.breakAndcontinue" />
+      <item itemvalue="Application.arraysJava" />
+      <item itemvalue="Application.multidimensionalarray" />
+      <item itemvalue="Application.exceptioNhandling" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ifelse" />
-        <item itemvalue="Application.Stringmethods" />
-        <item itemvalue="Application.operators" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.exceptioNhandling" />
+        <item itemvalue="Application.multidimensionalarray" />
+        <item itemvalue="Application.arraysJava" />
+        <item itemvalue="Application.breakAndcontinue" />
+        <item itemvalue="Application.forloop" />
       </list>
     </recent_temporary>
   </component>
@@ -123,5 +139,16 @@
       <updated>1571217899001</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

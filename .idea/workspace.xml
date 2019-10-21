@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4ed3da17-1549-4995-87b9-73111ade6552" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/harry/Takinguserinput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/harry/Takinguserinput.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/harry/exceptioNhandling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/harry/exceptioNhandling.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/harry/Takinguserinput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/harry/Takinguserinput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/harry/exceptioNhandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/harry/exceptioNhandling.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,9 +40,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Castingitems">
-    <configuration name="Arrayslearn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.Arrayslearn" />
+  <component name="RunManager" selected="Application.InputsUsingScanner">
+    <configuration name="Castingitems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.Castingitems" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +54,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Castingitems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.Castingitems" />
+    <configuration name="Formattingnumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.Formattingnumbers" />
+      <module name="java_basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mosh_basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputsUsingScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.InputsUsingScanner" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
@@ -84,21 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultidimensionalArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.MultidimensionalArrays" />
-      <module name="java_basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mosh_basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Timenow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.Timenow" />
+    <configuration name="MathsTricks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.MathsTricks" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
@@ -111,19 +107,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Timenow" />
-      <item itemvalue="Application.Arrayslearn" />
-      <item itemvalue="Application.MultidimensionalArrays" />
       <item itemvalue="Application.Learnconstants" />
       <item itemvalue="Application.Castingitems" />
+      <item itemvalue="Application.MathsTricks" />
+      <item itemvalue="Application.Formattingnumbers" />
+      <item itemvalue="Application.InputsUsingScanner" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InputsUsingScanner" />
+        <item itemvalue="Application.Formattingnumbers" />
+        <item itemvalue="Application.MathsTricks" />
         <item itemvalue="Application.Castingitems" />
         <item itemvalue="Application.Learnconstants" />
-        <item itemvalue="Application.MultidimensionalArrays" />
-        <item itemvalue="Application.Arrayslearn" />
-        <item itemvalue="Application.Timenow" />
       </list>
     </recent_temporary>
   </component>

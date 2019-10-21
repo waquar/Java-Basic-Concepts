@@ -13,5 +13,6 @@ public class Takinguserinput {
         System.out.println(input.toLowerCase());
         System.out.println(input.toUpperCase());
 
+
     }
 }

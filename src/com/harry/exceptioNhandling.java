@@ -9,7 +9,7 @@ public class exceptioNhandling {
             System.out.println(cars[9]);
         }
         catch(Exception e) {
-            System.out.println("No such index on that array you moron.");
+            System.out.println("No such index on that array.");
         }
     }
 }

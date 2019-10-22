@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4ed3da17-1549-4995-87b9-73111ade6552" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mosh_basics/Mortagecalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mosh_basics/Mortagecalculator.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,9 +41,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InputsUsingScanner">
-    <configuration name="Castingitems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.Castingitems" />
+  <component name="RunManager" selected="Application.Creatingmethods">
+    <configuration name="Creatingmethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.Creatingmethods" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
@@ -54,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Formattingnumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.Formattingnumbers" />
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.FizzBuzz" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputsUsingScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.InputsUsingScanner" />
+    <configuration name="Ternaryoperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.Ternaryoperators" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Learnconstants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.Learnconstants" />
+    <configuration name="Usingforloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.Usingforloops" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathsTricks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.MathsTricks" />
+    <configuration name="Whileloopwhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.Whileloopwhile" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
@@ -107,19 +108,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Learnconstants" />
-      <item itemvalue="Application.Castingitems" />
-      <item itemvalue="Application.MathsTricks" />
-      <item itemvalue="Application.Formattingnumbers" />
-      <item itemvalue="Application.InputsUsingScanner" />
+      <item itemvalue="Application.Ternaryoperators" />
+      <item itemvalue="Application.FizzBuzz" />
+      <item itemvalue="Application.Whileloopwhile" />
+      <item itemvalue="Application.Usingforloops" />
+      <item itemvalue="Application.Creatingmethods" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InputsUsingScanner" />
-        <item itemvalue="Application.Formattingnumbers" />
-        <item itemvalue="Application.MathsTricks" />
-        <item itemvalue="Application.Castingitems" />
-        <item itemvalue="Application.Learnconstants" />
+        <item itemvalue="Application.Creatingmethods" />
+        <item itemvalue="Application.Usingforloops" />
+        <item itemvalue="Application.Whileloopwhile" />
+        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.Ternaryoperators" />
       </list>
     </recent_temporary>
   </component>

@@ -12,21 +12,22 @@ public class Mortagecalculator {
         System.out.print("Enter principal amount : ");
         int principal_amount = scan.nextInt();
 
-        System.out.println("Enter Annual Interest rate: ");
+        System.out.print("Enter Annual Interest rate: ");
         float annual_interestrate = scan.nextFloat();
         float monthlyinterest = annual_interestrate/percentage/months_year;
+        System.out.println("mi:...."+monthlyinterest);
 
-        System.out.println("what is the period of loan:  ");
+        System.out.print("what is the period of loan:  ");
         byte years = scan.nextByte();
         int numberofPayments = years*months_year;
+        System.out.println("np:...." + numberofPayments);
 
-        //double mortgage = principal_amount*(monthlyinterest*Math.pow(1+monthlyinterest)
-                         //   /(Math.pow(1+monthlyinterest, numberofPayments)));
+        double mortgage = principal_amount*(monthlyinterest*Math.pow(1+monthlyinterest,numberofPayments)
+                            /(Math.pow(1+monthlyinterest, numberofPayments)));
 
-        //String mortgageformatted = NumberFormat.getCurrencyInstance().format(mortgage);
-       // System.out.println(mortgageformatted);
+        String mortgageformatted = NumberFormat.getCurrencyInstance().format(mortgage);
+        System.out.println(mortgageformatted);
 
     }
-
 
 }

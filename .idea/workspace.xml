@@ -27,6 +27,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -41,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Creatingmethods">
+  <component name="RunManager" selected="Application.Mortagecalculator">
     <configuration name="Creatingmethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mosh_basics.Creatingmethods" />
       <module name="java_basics" />
@@ -68,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ternaryoperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.Ternaryoperators" />
+    <configuration name="Mortagecalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.Mortagecalculator" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
@@ -108,19 +111,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Ternaryoperators" />
       <item itemvalue="Application.FizzBuzz" />
       <item itemvalue="Application.Whileloopwhile" />
       <item itemvalue="Application.Usingforloops" />
       <item itemvalue="Application.Creatingmethods" />
+      <item itemvalue="Application.Mortagecalculator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mortagecalculator" />
         <item itemvalue="Application.Creatingmethods" />
         <item itemvalue="Application.Usingforloops" />
         <item itemvalue="Application.Whileloopwhile" />
         <item itemvalue="Application.FizzBuzz" />
-        <item itemvalue="Application.Ternaryoperators" />
       </list>
     </recent_temporary>
   </component>

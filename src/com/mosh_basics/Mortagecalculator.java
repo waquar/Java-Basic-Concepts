@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Mortagecalculator {
     public static  void main(String[] args){
         final int months_year = 12;
-        final byte percentage = 100;
+        final byte percentage = 100 ;
 
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter principal amount : ");

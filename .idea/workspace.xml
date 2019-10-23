@@ -44,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Mortagecalculator">
+  <component name="RunManager" selected="Application.Wagecalculator">
     <configuration name="Creatingmethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mosh_basics.Creatingmethods" />
       <module name="java_basics" />
@@ -58,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.FizzBuzz" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.OOPSdive.Main" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mosh_basics.*" />
+          <option name="PATTERN" value="com.OOPSdive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Whileloopwhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mosh_basics.Whileloopwhile" />
+    <configuration name="Wagecalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.OOPSdive.Wagecalculator" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mosh_basics.*" />
+          <option name="PATTERN" value="com.OOPSdive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,19 +111,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FizzBuzz" />
-      <item itemvalue="Application.Whileloopwhile" />
       <item itemvalue="Application.Usingforloops" />
       <item itemvalue="Application.Creatingmethods" />
       <item itemvalue="Application.Mortagecalculator" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Wagecalculator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Wagecalculator" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Mortagecalculator" />
         <item itemvalue="Application.Creatingmethods" />
         <item itemvalue="Application.Usingforloops" />
-        <item itemvalue="Application.Whileloopwhile" />
-        <item itemvalue="Application.FizzBuzz" />
       </list>
     </recent_temporary>
   </component>

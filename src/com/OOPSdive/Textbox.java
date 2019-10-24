@@ -1,13 +1,18 @@
 package com.OOPSdive;
 
 public class Textbox {
-    public String text = "";
+    String text = "";
 
     public void setText(String text){
         this.text = text;
     }
+
+    public String getText(){
+        return this.text;
+    }
+
     public void clear(){
-        text = "";
+        this.text = "";
 
     }
 }

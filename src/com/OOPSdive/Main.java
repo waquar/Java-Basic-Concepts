@@ -2,15 +2,13 @@ package com.OOPSdive;
 
 public class Main {
     public static void main(String[] args){
-        //Textbox box1 = new Textbox();
-        Textbox box1 = new Textbox();
-        box1.setText("Box1");
-        System.out.println(box1.text.toUpperCase());
-
-        Textbox box2 = new Textbox();
-        box2.setText("Box2");
-        System.out.println(box2.text.toLowerCase());
-
+        Employeewage emp =new Employeewage();
+        System.out.println("Default is: " + emp.calculatewage());
+        emp.setbasesalary(4200, 110,21);
+        System.out.println("after using setter: " + emp.calculatewage());
+        emp.setbasesalary(2200, 10,51);
+        System.out.println("using getter : "+emp.getbasesalary());
     }
+
 
 }

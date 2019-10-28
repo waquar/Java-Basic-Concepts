@@ -16,6 +16,7 @@ public class MortgageFinal {
         printPaymentSchedule(principal, annualInterest, years);
     }
 
+    //prints mortgage loan amount emi
     private static void printMortgage(int principal, float annualInterest, byte years) {
         double mortgage = calculateMortgage(principal, annualInterest, years);
         String mortgageFormatted = NumberFormat.getCurrencyInstance().format(mortgage);
@@ -25,6 +26,7 @@ public class MortgageFinal {
         System.out.println("Monthly Payments: " + mortgageFormatted);
     }
 
+    //prints remaining amounts schedule for payments
     private static void printPaymentSchedule(int principal, float annualInterest, byte years) {
         System.out.println();
         System.out.println("PAYMENT SCHEDULE");
@@ -35,6 +37,7 @@ public class MortgageFinal {
         }
     }
 
+    //reads input
     public static double readNumber(String prompt, double min, double max) {
         Scanner scanner = new Scanner(System.in);
         double value;
@@ -48,11 +51,8 @@ public class MortgageFinal {
         return value;
     }
 
-    public static double calculateBalance(
-            int principal,
-            float annualInterest,
-            byte years,
-            short numberOfPaymentsMade
+    //calculates remaining amounts
+    public static double calculateBalance(int principal, float annualInterest, byte years, short numberOfPaymentsMade
     ) {
         float monthlyInterest = annualInterest / PERCENT / MONTHS_IN_YEAR;
         float numberOfPayments = years * MONTHS_IN_YEAR;
@@ -64,10 +64,8 @@ public class MortgageFinal {
         return balance;
     }
 
-    public static double calculateMortgage(
-            int principal,
-            float annualInterest,
-            byte years) {
+    //calculates mortgage
+    public static double calculateMortgage(int principal, float annualInterest, byte years) {
 
         float monthlyInterest = annualInterest / PERCENT / MONTHS_IN_YEAR;
         float numberOfPayments = years * MONTHS_IN_YEAR;

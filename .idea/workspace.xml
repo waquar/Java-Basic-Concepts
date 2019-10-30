@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4ed3da17-1549-4995-87b9-73111ade6552" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/MortgageFinal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/MortgageFinal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/OOPSdive/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/OOPSdive/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mosh_basics/MortagaeCalculator_Enhanced1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mosh_basics/MortgageFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mosh_basics/MortgageFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/MainCallConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/MainCallConstructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/OOPSdive/MainCallConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/OOPSdive/MainCallConstructor.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +45,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainCallConstructor">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.OOPSdive.Main" />
+  <component name="RunManager" selected="Application.Checkinheritence">
+    <configuration name="Checkinheritence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.OOPSdive.Checkinheritence" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
@@ -115,18 +113,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Mortagecalculator" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.MortagaeCalculator_Enhanced1" />
       <item itemvalue="Application.MortgageFinal" />
       <item itemvalue="Application.MainCallConstructor" />
+      <item itemvalue="Application.Checkinheritence" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Checkinheritence" />
         <item itemvalue="Application.MainCallConstructor" />
         <item itemvalue="Application.MortgageFinal" />
         <item itemvalue="Application.Mortagecalculator" />
         <item itemvalue="Application.MortagaeCalculator_Enhanced1" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

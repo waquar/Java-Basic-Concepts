@@ -21,14 +21,12 @@ public class UIControl extends  Employeewage{
         System.out.println(mytext + "hero");
     }
 
-
     public void enable(){
         isenable = true;
     }
     public  void disable(){
         isenable = false;
     }
-
     public boolean Isenable() {
         return isenable;
     }

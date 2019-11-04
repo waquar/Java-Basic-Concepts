@@ -8,6 +8,7 @@ public class Employeewage {
     private int extrahours =2;
 
     public int calculatewage() {
+
         return basesalary + (hourlyrates * extrahours);
     }
 

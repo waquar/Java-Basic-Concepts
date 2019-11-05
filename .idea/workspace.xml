@@ -43,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CallReference">
+  <component name="RunManager" selected="Application.Duplicatestringchecker">
     <configuration name="ArraysWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.ArraysWorld" />
       <module name="java_basics" />
@@ -70,6 +70,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Duplicatestringchecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.Duplicatestringchecker" />
+      <module name="java_basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Explicittypecasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.Explicittypecasting" />
       <module name="java_basics" />
@@ -83,25 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.OOPSdive.Main" />
+    <configuration name="Stringconcatination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.Stringconcatination" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.OOPSdive.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Mainpoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.OOPSdive.Mainpoint" />
-      <module name="java_basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.OOPSdive.*" />
+          <option name="PATTERN" value="com.pluralsight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,19 +110,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Mainpoint" />
       <item itemvalue="Application.Explicittypecasting" />
       <item itemvalue="Application.ArraysWorld" />
       <item itemvalue="Application.CallReference" />
+      <item itemvalue="Application.Stringconcatination" />
+      <item itemvalue="Application.Duplicatestringchecker" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Duplicatestringchecker" />
+        <item itemvalue="Application.Stringconcatination" />
         <item itemvalue="Application.CallReference" />
         <item itemvalue="Application.ArraysWorld" />
         <item itemvalue="Application.Explicittypecasting" />
-        <item itemvalue="Application.Mainpoint" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

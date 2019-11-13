@@ -1,10 +1,10 @@
 package com.pluralsight;
 
-import java.util.HashMap;
+import java.util.LinkedHashMap;
 
 public class Duplicatestringchecker {
     static void findduplicate(String word){
-        HashMap<String, Integer> hm = new HashMap<>();
+        LinkedHashMap<String, Integer> hm = new LinkedHashMap<>();
         String[] s = word.split(" ");
         for (String tempstring : s){
             if (hm.get(tempstring) != null){

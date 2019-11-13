@@ -26,6 +26,10 @@ public class Flight {
         Flight flight2 = new Flight();
         Flight flight3;
 
+        flight3 = flight1;
+        flight3.passengers = 0;
+
+
         if (flight1.hasseats(flight2)){
             flight3 = flight1.createnewwithboth(flight2);
             flight3.displaysomething();

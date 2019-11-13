@@ -3,6 +3,66 @@
   <component name="ChangeListManager">
     <list default="true" id="4ed3da17-1549-4995-87b9-73111ade6552" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/META-INF/java_basics.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/Quickstart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/Checkbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/Checkbox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/Checkinheritence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/Checkinheritence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/Employeewage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/Employeewage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/ExploringStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/ExploringStatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/MainCallConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/MainCallConstructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/Mainpoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/Mainpoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/Textbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/Textbox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/UIControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/UIControl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/UseConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/UseConstructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/Wagecalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/OOPSdive/Wagecalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/harry/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/harry/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/harry/Mathclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/harry/Mathclass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/harry/Stringmethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/harry/Stringmethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/harry/Switchstatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/harry/Switchstatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/harry/Takinguserinput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/harry/Takinguserinput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/harry/ThreeArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/harry/ThreeArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/harry/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/harry/Variables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/harry/arraysJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/harry/arraysJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/harry/breakAndcontinue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/harry/breakAndcontinue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/harry/dowhileloop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/harry/dowhileloop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/harry/exceptioNhandling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/harry/exceptioNhandling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/harry/forloop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/harry/forloop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/harry/ifelse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/harry/ifelse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/harry/multidimensionalarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/harry/multidimensionalarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/harry/operators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/harry/operators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/harry/simplecalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/harry/simplecalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/harry/statickeyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/harry/statickeyword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/harry/usingmethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/harry/usingmethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/harry/whileloop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/harry/whileloop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Arrayslearn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Arrayslearn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Booleandivedeep.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Booleandivedeep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Castingitems.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Castingitems.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Creatingmethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Creatingmethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/FizzBuzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/FizzBuzz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Formattingnumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Formattingnumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/InputsUsingScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/InputsUsingScanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Learnconstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Learnconstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Logicaloperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Logicaloperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/MathsTricks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/MathsTricks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Mortagecalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Mortagecalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/MortgageFinal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/MortgageFinal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/MultidimensionalArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/MultidimensionalArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Ternaryoperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Ternaryoperators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Timenow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Timenow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Usingforloops.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Usingforloops.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Whileloopwhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/mosh_basics/Whileloopwhile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/pluralsight/ArraysWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/pluralsight/ArraysWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/pluralsight/CallReference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/pluralsight/CallReference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/pluralsight/Duplicatestringchecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/pluralsight/Duplicatestringchecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/pluralsight/Explicittypecasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/pluralsight/Explicittypecasting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/pluralsight/Flight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/pluralsight/Flight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basics/com/pluralsight/Stringconcatination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basics/com/pluralsight/Stringconcatination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mosh_basics/Quickstart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mosh_basics/Quickstart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pluralsight/Duplicatestringchecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pluralsight/Duplicatestringchecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pluralsight/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pluralsight/Flight.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +74,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -29,7 +90,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -43,9 +104,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Flight">
-    <configuration name="ArraysWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pluralsight.ArraysWorld" />
+  <component name="RunManager" selected="Application.Testbank">
+    <configuration name="Callvalue_callReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.Callvalue_callReference" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
@@ -57,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pluralsight.CallReference" />
+    <configuration name="Stringprintincrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.Stringprintincrement" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
@@ -70,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Duplicatestringchecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pluralsight.Duplicatestringchecker" />
+    <configuration name="TestCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basics.TestCar" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pluralsight.*" />
+          <option name="PATTERN" value="com.basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Flight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pluralsight.Flight" />
+    <configuration name="Testbank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Interfaceconcept.Testbank" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pluralsight.*" />
+          <option name="PATTERN" value="com.Interfaceconcept.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,8 +157,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stringconcatination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pluralsight.Stringconcatination" />
+    <configuration name="Wrapperclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.Wrapperclass" />
       <module name="java_basics" />
       <extension name="coverage">
         <pattern>
@@ -110,19 +171,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArraysWorld" />
-      <item itemvalue="Application.CallReference" />
-      <item itemvalue="Application.Stringconcatination" />
-      <item itemvalue="Application.Duplicatestringchecker" />
-      <item itemvalue="Application.Flight" />
+      <item itemvalue="Application.Wrapperclass" />
+      <item itemvalue="Application.Callvalue_callReference" />
+      <item itemvalue="Application.TestCar" />
+      <item itemvalue="Application.Stringprintincrement" />
+      <item itemvalue="Application.Testbank" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Flight" />
-        <item itemvalue="Application.Duplicatestringchecker" />
-        <item itemvalue="Application.Stringconcatination" />
-        <item itemvalue="Application.CallReference" />
-        <item itemvalue="Application.ArraysWorld" />
+        <item itemvalue="Application.Testbank" />
+        <item itemvalue="Application.Stringprintincrement" />
+        <item itemvalue="Application.TestCar" />
+        <item itemvalue="Application.Callvalue_callReference" />
+        <item itemvalue="Application.Wrapperclass" />
       </list>
     </recent_temporary>
   </component>
